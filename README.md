@@ -9,8 +9,8 @@ class Kome1208 {
                 "TypeScript"
             ],
             contacts: {
-                Discord: "kome1#3130",
-                Twitter: "@_____afd_____"
+                Discord: "kome1",
+                Twitter: "@a29tZTEyMDg"
             }
         }
         return info;
